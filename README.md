@@ -1,1 +1,1 @@
-# My-Personal-Blog
+This blog is a dedicated blog to know more about who I am and my interests.
